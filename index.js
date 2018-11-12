@@ -28,7 +28,7 @@ function johnLennonFacts(facts) {
     lennonFacts.push(facts[i] + '!!!')
     i++
   }
-  return lennonfacts;
+  return lennonFacts;
 }
 
 
