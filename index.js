@@ -21,7 +21,7 @@ var facts = [
 ];
 
 
-function johnLennonFacts() {
+function johnLennonFacts(facts) {
   let i = 0
   var lennonFacts = [];
   while (i < facts.length) {
