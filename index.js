@@ -28,7 +28,7 @@ function johnLennonFacts() {
     lennonFacts = facts + '!!!'
     i++
   }
-  return facts;
+  return lennonfacts;
 }
 
 function iLoveTheBeatles(n) {
