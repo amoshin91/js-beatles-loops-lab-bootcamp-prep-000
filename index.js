@@ -13,7 +13,7 @@ function theBeatlesPlay(musicains, instruments) {
 }
 
 
-var facts = [
+const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
