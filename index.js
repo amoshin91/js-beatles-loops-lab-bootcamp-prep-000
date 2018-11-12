@@ -23,7 +23,7 @@ var facts = [
 
 function johnLennonFacts() {
   let i = 0
-  let lennonFacts = [];
+  var lennonFacts = [];
   while (i < facts.length) {
     lennonFacts.push(facts[i] + '!!!')
     i++
